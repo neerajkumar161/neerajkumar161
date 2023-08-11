@@ -1,10 +1,13 @@
 ### Hi there 👋
-My name is **Neeraj Kumar**. I'm Backend Engineer having experience in **Node.js**, **GraphQL**. But likes to do some Front End work as well. Little bit knowledge about Angular. TypeScript lover😍
+My name is **Neeraj Kumar**. I'm Backend Engineer having experience in **Node.js**, **GraphQL**. But likes to do some Front End work as well. Little bit of knowledge about Angular. TypeScript lover😍
 
-![https://www.google.com](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)
-![twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)
-![stackoverflow](https://img.shields.io/badge/StackOverflow-000000?style=for-the-badge&logo=StackOverflow&logoColor=white)
+
+<a href="https://www.github.com/neerajkumar161" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/neerajkumar161/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.twitter.com/ennkay161" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://stackoverflow.com/users/13338582/neeraj-kumar" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-000000?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="StackOverflow"></a>
+<a href="https://stackoverflow.com/users/13338582/neeraj-kumar" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-000000?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="StackOverflow"></a>
+
 <!-- 
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/gray" />
