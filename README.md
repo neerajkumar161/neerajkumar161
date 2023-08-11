@@ -6,7 +6,6 @@ My name is **Neeraj Kumar**. I'm Backend Engineer having experience in **Node.js
 <a href="https://www.linkedin.com/in/neerajkumar161/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.twitter.com/ennkay161" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://stackoverflow.com/users/13338582/neeraj-kumar" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-000000?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="StackOverflow"></a>
-<a href="https://stackoverflow.com/users/13338582/neeraj-kumar" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-000000?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="StackOverflow"></a>
 
 <!-- 
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
